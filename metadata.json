@@ -1,0 +1,8 @@
+{
+  "name": "Crisp Cleaners CRM & Booking Platform",
+  "description": "Turnkey cleaning platform for Crisp Cleaners featuring public customer booking with arrival window timing selection, dedicated service pages, franchise & subcontractor region locking partner program, admin password portal, and full CRM operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
